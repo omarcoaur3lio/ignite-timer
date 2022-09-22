@@ -32,7 +32,7 @@ Esta aplicação foi desenvolvida durante o segundo módulo do programa de trein
 O Ignite Timer é uma aplicação para gerenciamento de tempo no estilo `pomodoro`. Através dela é possível definir o intervalo de tempo em que pretendemos trabalhar em uma determinada tarefa. A aplicação também possibilita a visualização do histórico de tarefas realizadas, identificadas conforme seus status de conclusão ( 🟢 concluído, 🔴 interrompido ou 🟡 em andamento).
 
 
-#### :camera: Preview 
+### :camera: Preview 
 <div align="center">
   <img src=".github/preview.svg" width=80% />
 </div>
