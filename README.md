@@ -69,6 +69,7 @@ O aplicativo estará disponível para acesso em seu navegador em http://localhos
 - [ReactJS](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [React Hook Form](https://react-hook-form.com/)
+- [date-fns](https://date-fns.org/)
 
 <p align="center">
 Feito com :purple_heart:
